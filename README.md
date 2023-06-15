@@ -59,4 +59,7 @@ In the delivery process, several factors could affect the customer rating, even 
 * Encourage Warehouse A to share its loading method and area layout plans with the other warehouses. Regular comparisons could foster improvements across all locations.
 * Implement a tracking system that allows customers to monitor the delivery process. This transparency can enhance customer satisfaction and operational efficiency.
 
+# Data Visualization
+Tableau link: https://public.tableau.com/app/profile/revalde.candra/viz/CapstoneModule2-RevaldeRadityaCandra/CapstoneProjectModule2-RevaldeRadityaCandra?publish=yes
+
 **THANK YOU**
