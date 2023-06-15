@@ -49,7 +49,7 @@ In the delivery process, several factors could affect the customer rating, even 
 * Each warehouse might face unique challenges, like Warehouse F dealing with a large volume of products. Despite being part of the warehousing, not the transport sector, such challenges can impact on-time delivery rates. Hence, process improvement within the warehouse is essential.
 * While customer rating might not reflect the entire end-to-end process, a mishap in any part, such as a mistake during the picking process, can lead to customer dissatisfaction. This might result in poor customer ratings, even if the delivery was on time.
 
-## Recommendation
+## Recommendations
 * Incorporate buffer time into the Estimated Time of Arrival (ETA) to mitigate the risks of late deliveries.
 * Engage with a Third Party Logistics (3PL) provider that is recognized for timely deliveries.
 * Adopt real-time tracking systems for the transport team to oversee shipment progress. This will help identify and address any potential delays promptly.
